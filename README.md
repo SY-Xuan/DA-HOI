@@ -1,6 +1,8 @@
 # DA-HOI
 Official implementation of the ICLR 2026 paper: **"[Zero-shot HOI Detection with MLLM-based Detector-agnostic Interaction Recognition](https://arxiv.org/pdf/2602.15124)"**.
 
+![](paper_images/intro.png)
+
 ## 🛠 Installation
 
 Clone the repository and install the required dependencies:
